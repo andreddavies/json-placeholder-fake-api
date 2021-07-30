@@ -1,12 +1,5 @@
 [
   {
-    "id": 312,
-    "name": "Super Mario Odyssey",
-    "price": 197.88,
-    "score": 100,
-    "image": "super-mario-odyssey.png"
-  },
-  {
     "id": 201,
     "name": "Call Of Duty Infinite Warfare",
     "price": 49.99,
@@ -35,18 +28,27 @@
     "image": "mortal-kombat-xl.png"
   },
   {
-    "id": 74,
-    "name": "Shards of Darkness",
-    "price": 71.94,
-    "score": 400,
-    "image": "shards-of-darkness.png"
-  },
-  {
     "id": 31,
     "name": "Terra Média: Sombras de Mordor",
     "price": 79.99,
     "score": 50,
     "image": "terra-media-sombras-de-mordor.png"
+  },
+  
+  /*
+  {
+    "id": 312,
+    "name": "Super Mario Odyssey",
+    "price": 197.88,
+    "score": 100,
+    "image": "super-mario-odyssey.png"
+  },
+  {
+    "id": 74,
+    "name": "Shards of Darkness",
+    "price": 71.94,
+    "score": 400,
+    "image": "shards-of-darkness.png"
   },
   {
     "id": 420,
@@ -63,3 +65,5 @@
     "image": "horizon-zero-dawn.png"
   }
 ]
+
+  */
